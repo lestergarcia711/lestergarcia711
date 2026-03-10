@@ -1,8 +1,5 @@
 # 🚀Lester Garcia
 ## 🎯Remember: Dreams without goals are just dreams!!
-
-
-
 ![imagen](https://unsplash.com/es/s/fotos/fondo-de-pantalla-de-programacion)
 
 ## ⚡Descripcion breve:
