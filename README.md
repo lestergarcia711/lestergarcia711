@@ -1,21 +1,23 @@
-## Lester Garcia
-# Remember: Dreams without goals are just dreams!!
-![imagen](<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/db01acd0-dcce-4444-97d0-7e09777892cc" />)
+# 🚀Lester Garcia
+## 🎯Remember: Dreams without goals are just dreams!!
+![imagen](Uploading image.png)
 
-# Descripcion breve:
+
+
+
+## ⚡Descripcion breve:
 *Un estudiante de campusland en programacion full stack. Preparandose para la vida laboral.
 
-# Aprendizajes y Tecnologias que uso:
+## 🧠Aprendizajes y Tecnologias que uso:
+- Uso de Python
+- Uso correcto de la  IA
+- Uso de git
+## 🔥Ambitos en los que se pone en practica la programacion.
+Entre ellos diriamos:
+- Cajeros automaticos.
+- Creacion de paginas Web.
+- Soldadura Automatica.
+- etc.
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
