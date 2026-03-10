@@ -1,6 +1,6 @@
 # 🚀Lester Garcia
 ## 🎯Remember: Dreams without goals are just dreams!!
-![imagen](https://unsplash.com/es/s/fotos/fondo-de-pantalla-de-programacion)
+![imagen local](./images.jpeg)
 
 ## ⚡Descripcion breve:
 *Un estudiante de campusland en programacion full stack. Preparandose para la vida laboral.
