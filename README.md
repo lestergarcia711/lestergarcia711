@@ -1,7 +1,12 @@
-## Hi there 👋
+## Lester Garcia
+# Remember: Dreams without goals are just dreams!!
+![imagen](<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/db01acd0-dcce-4444-97d0-7e09777892cc" />)
 
-<!--
-**lestergarcia711/lestergarcia711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Descripcion breve:
+*Un estudiante de campusland en programacion full stack. Preparandose para la vida laboral.
+
+# Aprendizajes y Tecnologias que uso:
+
 
 Here are some ideas to get you started:
 
