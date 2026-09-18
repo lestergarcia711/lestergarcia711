@@ -40,8 +40,8 @@ Tools    -> VISUAL CODE, GIT, GITHUB, MYSQL, DOCKER.IA
 
 | Mision | Resultado esperado | Tecnologias | Link |
 |---|---|---|---|
-| Venta de ropa en linea | Aumentar Clientela y actualizacion de productos nuevos | HTML, CSS | [Abrir](https://lestergarcia711.github.io/CAMPUS-SHOP/) |
-|Sistema para un parqueo|Mejorar Servicio al cliente, evitar la perdida de datos, mejor manejo de informacion y rapidez. | HTML, CSS Y JAVASCRIPT | [Abrir](https://lestergarcia711.github.io/Pyoyecto_JavaScript_Lester-Garcia/)|
+| Venta de ropa en linea | Aumentar Clientela y actualizacion de productos nuevos | HTML, CSS | [Abrir](https://lestergarcia711.github.io/campus-shop-online/) |
+|Sistema para un parqueo|Mejorar Servicio al cliente, evitar la perdida de datos, mejor manejo de informacion y rapidez. | HTML, CSS Y JAVASCRIPT | [Abrir](https://lestergarcia711.github.io/sistema-campus-parking/)|
 
 
 ## Senales de actividad
