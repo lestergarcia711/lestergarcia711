@@ -11,7 +11,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=lestergarcia711&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/lestergarcia711)
 [![GitHub](https://img.shields.io/badge/GitHub-lestergarcia711-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestergarcia711)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](lester-garcia-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
 
 </div>
 
