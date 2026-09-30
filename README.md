@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=LESTER+GARCIA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador+Full+Stack+Junior&descAlignY=58&descSize=18" alt="Lester Garcia - Desarrollador Full Stack Junior" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=LESTER+GARCIA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnicos+en +Desarrollo+de+Sofware&descAlignY=58&descSize=18" alt="Lester Garcia - Tecnico en Desrrollo de software" width="100%" />
 </div>
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+Junior;Python+%7C+JavaScript;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Python+%7C+JavaScript;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lestergarcia711.github.io/portafolio-lester/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
@@ -17,7 +17,7 @@
 
 ## Sobre mí
 
-Soy **Desarrollador Full Stack Junior** con enfoque en el **frontend** (páginas web con HTML, CSS y JavaScript) y en el **backend** con **Python** y bases de datos **MySQL**.
+Soy **Técnico en Desarrollo de Software** con enfoque en el **frontend** (páginas web con HTML, CSS y JavaScript) y en el **backend** con **Python** y bases de datos **MySQL**.
 
 Durante mi formación en **Campuslands** he desarrollado proyectos académicos y personales, trabajando con **Visual Studio Code** y control de versiones con **Git y GitHub**.
 
