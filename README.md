@@ -47,12 +47,10 @@ Tools    -> VISUAL CODE, GIT, GITHUB, MYSQL, DOCKER.IA
 ## Senales de actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lestergarcia711&theme=react-dark&hide_border=true&area=true&radius=12" alt="Actividad reciente" width="98%" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lestergarcia711&theme=github_dark" alt="Repos por lenguaje" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lestergarcia711&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lestergarcia711&theme=tokyonight" alt="Profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lestergarcia711&theme=tokyonight" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lestergarcia711&theme=tokyonight" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lestergarcia711&theme=tokyonight" alt="Stats" width="49%" />
 </div>
 
 ## Principios de trabajo
