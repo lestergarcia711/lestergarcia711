@@ -1,72 +1,78 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="lester-garcia- Desarrollador Full Stack Junior" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=LESTER+GARCIA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador+Full+Stack+Junior&descAlignY=58&descSize=18" alt="Lester Garcia - Desarrollador Full Stack Junior" width="100%" />
 </div>
+
 <div align="center">
 
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+Junior;Python+%7C+JavaScript;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
 
-# LESTER GARCIA
-
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=DESARROLADOR+DE+SOFTWARE;PYTHON+JAVASCRIPT;FRONTEND;HTML+CSS;BACKEND;MYSQL_1)
-
-[![Profile views](https://komarev.com/ghpvc/?username=lestergarcia711&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/lestergarcia711)
-[![GitHub](https://img.shields.io/badge/GitHub-lestergarcia711-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestergarcia711)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lestergarcia711.github.io/portafolio-lester/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
+[![Email](https://img.shields.io/badge/Email-Escribeme-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lestergarcia711@gmail.com)
+[![Visitas](https://komarev.com/ghpvc/?username=lestergarcia711&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/lestergarcia711)
 
 </div>
 
 ---
 
-## Identidad tecnica
+## Sobre mí
 
-**Desarrolador Full Stack Junior** con enfoque en **front end;Paginas web. Backend; manejo de base de datos con MYSQL**.
+Soy **Desarrollador Full Stack Junior** con enfoque en el **frontend** (páginas web con HTML, CSS y JavaScript) y en el **backend** con **Python** y bases de datos **MySQL**.
 
-Durante la trayectoria de aprendizaje he desarrollado proyectos academicos y personales utilizando herramientas como visual code. Manejo de versiones controladas con git.
+Durante mi formación en **Campuslands** he desarrollado proyectos académicos y personales, trabajando con **Visual Studio Code** y control de versiones con **Git y GitHub**.
 
-## Arsenal Campuslands
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,html,css,js,mysql,," alt="Stack Campuslands" />
-</div>
-
-```text
-Frontend -> HTML Y CSS
-Backend  -> PYTHON, JAVASCRIPT, TYPESCRIPT
-Datos    -> MYSQL_1, MYSQL_2
-Tools    -> VISUAL CODE, GIT, GITHUB, MYSQL, DOCKER.IA
-```
-
-## Misiones destacadas
-
-| Mision | Resultado esperado | Tecnologias | Link |
-|---|---|---|---|
-| Venta de ropa en linea | Aumentar Clientela y actualizacion de productos nuevos | HTML, CSS | [Abrir](https://lestergarcia711.github.io/campus-shop-online/) |
-|Sistema para un parqueo|Mejorar Servicio al cliente, evitar la perdida de datos, mejor manejo de informacion y rapidez. | HTML, CSS Y JAVASCRIPT | [Abrir](https://lestergarcia711.github.io/sistema-campus-parking/)|
+Actualmente:
+- 🌱 Aprendiendo: NODEJS ...
 
 
-## Senales de actividad
+## 🛠️ Stack tecnológico
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lestergarcia711&theme=tokyonight" alt="Profile details" width="98%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lestergarcia711&theme=tokyonight" alt="Repos per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lestergarcia711&theme=tokyonight" alt="Most commit language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lestergarcia711&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,git,github,vscode,docker" alt="Tecnologías" />
 </div>
 
-## Principios de trabajo
+<br>
 
-- Evitar trabajar sobre la rama main.
--Creacion de carpetas con criterio.
-- Crear ramas por separado para separar responsabilidades.
-- Documentar cada integracion o modificacion hecha.
-- Commits elaborados profesionalmente, usando infinitivos.
-- Hacer pull requests.
+| Área | Tecnologías |
+|:---|:---|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python, JavaScript, TypeScript |
+| **Bases de datos** | MySQL |
+| **Herramientas** | Git, GitHub, Visual Studio Code, Docker |
+
+##  Proyectos destacados
+
+| Proyecto | Qué resuelve | Tecnologías | Demo |
+|:---|:---|:---|:---:|
+| **Campus Shop Online**<br>Tienda de ropa en línea | Facilita la venta de ropa por internet y la actualización de nuevos productos para atraer más clientes. | `HTML` `CSS` | [Ver demo](https://lestergarcia711.github.io/campus-shop-online/) |
+| **Sistema Campus Parking**<br>Gestión de parqueadero | Mejora el servicio al cliente, evita la pérdida de datos y agiliza el manejo de la información. | `HTML` `CSS` `JavaScript` | [Ver demo](https://lestergarcia711.github.io/sistema-campus-parking/) |
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lestergarcia711&theme=tokyonight" alt="Detalles del perfil" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lestergarcia711&theme=tokyonight" alt="Repositorios por lenguaje" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lestergarcia711&theme=tokyonight" alt="Lenguajes con más commits" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lestergarcia711&theme=tokyonight" alt="Estadísticas" width="49%" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=lestergarcia711&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
+
+
+##  Cómo trabajo
+
+- No trabajo directamente sobre `main`; uso ramas separadas por responsabilidad.
+- Organizo las carpetas del proyecto con criterio.
+- Documento cada integración o modificación.
+- Escribo commits claros y profesionales, en infinitivo.
+- Integro los cambios mediante Pull Requests.
 
 ---
 
 <div align="center">
 
+📫 **lestergarcia711@gmail.com** · 🌐 [Portafolio](https://lestergarcia711.github.io/portafolio-lester/) · 💼 [LinkedIn](https://www.linkedin.com/in/lester-garcia-dev/)
 
-**lestergarcia711@gmail.com |  https://lestergarcia711.github.io/portafolio-lester/ |   julio 2026**
+<sub>¿Tienes una idea o una oportunidad? Escríbeme, con gusto conversamos.</sub>
 
 </div>
