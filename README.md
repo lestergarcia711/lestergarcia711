@@ -58,11 +58,6 @@ Actualmente:
   <img src="./profile-summary-card-output/aura/3-stats.svg" width="49%" />
 </div>
 
-<p align="center">
-  <img src="https://vercel.app" alt="Mis Trofeos" />
-</p>
-
-
 
 ##  Cómo trabajo
 
