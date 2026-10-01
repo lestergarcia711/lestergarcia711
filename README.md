@@ -50,13 +50,18 @@ Actualmente:
 ## 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lestergarcia711&theme=tokyonight" alt="Detalles del perfil" width="98%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lestergarcia711&theme=tokyonight" alt="Repositorios por lenguaje" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lestergarcia711&theme=tokyonight" alt="Lenguajes con más commits" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lestergarcia711&theme=tokyonight" alt="Estadísticas" width="49%" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=lestergarcia711&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+    <img src="./profile-summary-card-output/aura/0-profile-details.svg" width="98%"/>
 </div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/aura/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/aura/3-stats.svg" width="49%" />
+</div>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Mis Trofeos" />
+</p>
+
 
 
 ##  Cómo trabajo
