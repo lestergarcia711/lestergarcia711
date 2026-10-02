@@ -6,7 +6,7 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Python+%7C+JavaScript;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lestergarcia711.github.io/portafolio-lester/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lestergarcia711.github.io/portafolio-profesional/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
 [![Email](https://img.shields.io/badge/Email-Escribeme-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lestergarcia711@gmail.com)
 [![Visitas](https://komarev.com/ghpvc/?username=lestergarcia711&style=for-the-badge&color=00e5ff&label=VISITAS)](https://github.com/lestergarcia711)
