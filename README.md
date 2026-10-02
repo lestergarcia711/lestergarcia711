@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=LESTER+GARCIA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnicos+en +Desarrollo+de+Sofware&descAlignY=58&descSize=18" alt="Lester Garcia - Tecnico en Desrrollo de software" width="100%" />
+  <img
+    src="./assets/banner.png"
+    alt="Lester Garcia - Desarrollador de Software"
+    width="100%"
+  />
 </div>
+
+<h1 align="center">
+  ¡Hola! Soy Lester Garcia 
+</h1>
 
 <div align="center">
 
