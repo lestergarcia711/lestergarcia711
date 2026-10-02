@@ -79,7 +79,7 @@ Actualmente:
 
 <div align="center">
 
-📫 **lestergarcia711@gmail.com** · 🌐 [Portafolio](https://lestergarcia711.github.io/portafolio-lester/) · 💼 [LinkedIn](https://www.linkedin.com/in/lester-garcia-dev/)
+📫 **lestergarcia711@gmail.com** · 🌐 [Portafolio](https://lestergarcia711.github.io/portafolio-profesional/) · 💼 [LinkedIn](https://www.linkedin.com/in/lester-garcia-dev/)
 
 <sub>¿Tienes una idea o una oportunidad? Escríbeme, con gusto conversamos.</sub>
 
