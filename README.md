@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Python+%7C+JavaScript;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Node.js+%2B+Express;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lester-garcia-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
@@ -25,12 +25,10 @@
 
 ## Sobre mí
 
-<p align="justify">Soy <strong>Técnico en Desarrollo de Software</strong> con enfoque en el <strong>frontend</strong> (páginas web con HTML, CSS y JavaScript) y en el <strong>backend</strong> con <strong>Python</strong> y bases de datos <strong>MySQL</strong>.</p>
+<p align="justify">Soy <strong>Técnico en Desarrollo de Software</strong> con enfoque en el <strong>frontend</strong> (páginas web con HTML, CSS y JavaScript) y en el <strong>backend</strong> con <strong>Node.js</strong> y <strong>Express</strong>, y bases de datos <strong>MySQL</strong>.</p>
 
 <p align="justify">Durante mi formación en <strong>Campuslands</strong> he desarrollado proyectos académicos y personales, trabajando con <strong>Visual Studio Code</strong> y control de versiones con <strong>Git y GitHub</strong>.</p>
 
-Actualmente:
-- 🌱 Aprendiendo: Node.js
 
 
 ## Stack tecnológico
@@ -40,13 +38,12 @@ Actualmente:
 | Área | Tecnologías |
 |:---:|:---|
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python, Node.js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" /> |
 | **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> |
 | **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code, Docker" /> |
 
 </div>
 
-<sub>Node.js: en proceso de aprendizaje.</sub>
 
 ## Proyectos destacados
 
