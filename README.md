@@ -21,7 +21,7 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## Sobre mí
 
@@ -30,6 +30,8 @@
 <p align="justify">Durante mi formación en <strong>Campuslands</strong> he desarrollado proyectos académicos y personales, trabajando con <strong>Visual Studio Code</strong> y control de versiones con <strong>Git y GitHub</strong>.</p>
 
 
+
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## Stack tecnológico
 
@@ -45,12 +47,16 @@
 </div>
 
 
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
+
 ## Proyectos destacados
 
 | Proyecto | Qué resuelve | Tecnologías | Demo |
 |:---|:---|:---|:---:|
 | **Campus Shop Online**<br>Tienda de ropa en línea | Facilita la venta de ropa por internet y la actualización de nuevos productos para atraer más clientes. | `HTML` `CSS` | [Ver demo](https://lestergarcia711.github.io/campus-shop-online/) |
 | **Sistema Campus Parking**<br>Gestión de parqueadero | Mejora el servicio al cliente, evita la pérdida de datos y agiliza el manejo de la información. | `HTML` `CSS` `JavaScript` | [Ver demo](https://lestergarcia711.github.io/sistema-campus-parking/) |
+
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## Actividad en GitHub
 
@@ -64,6 +70,8 @@
 </div>
 
 
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
+
 ## Contribuciones diarias
 
 <div align="center">
@@ -75,6 +83,8 @@
     </picture>
   </a>
 </div>
+
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## Mi forma de trabajar
 
