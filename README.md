@@ -6,9 +6,9 @@
   />
 </div>
 
-<h1 align="center">
-  ¡Hola! Soy Lester Garcia 
-</h1>
+<div align="center">
+  <img src="./assets/hello.svg" alt="¡Hola! Soy Lester Garcia. Bienvenido a mi universo de código" width="100%" />
+</div>
 
 <div align="center">
 
