@@ -67,6 +67,18 @@ Actualmente:
 </div>
 
 
+## 🐍 Contribuciones
+
+<div align="center">
+  <a href="https://github.com/lestergarcia711">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lestergarcia711/lestergarcia711/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lestergarcia711/lestergarcia711/output/github-snake.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/lestergarcia711/lestergarcia711/output/github-snake.svg" />
+    </picture>
+  </a>
+</div>
+
 ##  Cómo trabajo
 
 - No trabajo directamente sobre `main`; uso ramas separadas por responsabilidad.
