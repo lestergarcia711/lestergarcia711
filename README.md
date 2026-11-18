@@ -57,10 +57,10 @@
   <img src="./assets/title-proyectos.svg" alt="Proyectos destacados" height="48" />
 </div>
 
-| Proyecto | Qué resuelve | Tecnologías | Demo |
-|:---|:---|:---|:---:|
-| **Campus Shop Online**<br>Tienda de ropa en línea | Facilita la venta de ropa por internet y la actualización de nuevos productos para atraer más clientes. | `HTML` `CSS` | [Ver demo](https://lestergarcia711.github.io/campus-shop-online/) |
-| **Sistema Campus Parking**<br>Gestión de parqueadero | Mejora el servicio al cliente, evita la pérdida de datos y agiliza el manejo de la información. | `HTML` `CSS` `JavaScript` | [Ver demo](https://lestergarcia711.github.io/sistema-campus-parking/) |
+<div align="center">
+  <a href="https://lestergarcia711.github.io/campus-shop-online/"><img src="./assets/project-shop.svg" alt="Campus Shop Online: tienda de ropa en línea. Demo" width="49%" /></a>
+  <a href="https://lestergarcia711.github.io/sistema-campus-parking/"><img src="./assets/project-parking.svg" alt="Sistema Campus Parking: gestión de parqueadero. Demo" width="49%" /></a>
+</div>
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
