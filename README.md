@@ -86,13 +86,23 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Mi forma de trabajar
+## Flujo de trabajo
 
-- No trabajo directamente sobre `main`; uso ramas separadas por responsabilidad.
-- Organizo las carpetas del proyecto con criterio.
-- Documento cada integración o modificación.
-- Escribo commits claros y profesionales, en infinitivo.
-- Integro los cambios mediante Pull Requests.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'git0':'#00e5ff','git1':'#22c55e','git2':'#facc15','gitBranchLabel0':'#0b1120','gitBranchLabel1':'#0b1120','gitBranchLabel2':'#0b1120'}}}%%
+gitGraph
+    commit id: "main"
+    branch dev
+    checkout dev
+    commit id: "feat: nueva funcionalidad"
+    branch feature
+    checkout feature
+    commit id: "docs: documentar cambio"
+    checkout dev
+    merge feature id: "Pull Request"
+    checkout main
+    merge dev id: "Release"
+```
 
 ---
 
