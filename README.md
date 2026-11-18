@@ -104,12 +104,16 @@ gitGraph
     merge dev id: "Release"
 ```
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 <div align="center">
 
-📫 **lestergarcia711@gmail.com** · 🌐 [Portafolio](https://lester-garcia-dev.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/lester-garcia-dev/)
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=3000&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=%C2%BFTienes+una+idea+o+una+oportunidad%3F;Construyamos+algo+juntos" alt="Construyamos algo juntos" />
 
-<sub>¿Tienes una idea o una oportunidad? Escríbeme, con gusto conversamos.</sub>
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lester-garcia-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
+[![Email](https://img.shields.io/badge/Email-Escribeme-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lestergarcia711@gmail.com)
+
+<sub>Con dedicación Lester Garcia</sub>
 
 </div>
