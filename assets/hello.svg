@@ -1,9 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" font-family="Roboto, 'Segoe UI', Arial, sans-serif">
+  <style>
+    .cy { stop-color: #0284c7; }
+    .gr { stop-color: #15803d; }
+    .ye { stop-color: #a16207; }
+    .sub { fill: #0f766e; }
+    @media (prefers-color-scheme: dark) {
+      .cy { stop-color: #00e5ff; }
+      .gr { stop-color: #22c55e; }
+      .ye { stop-color: #facc15; }
+      .sub { fill: #8fe9d0; }
+    }
+  </style>
   <defs>
     <linearGradient id="t" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
-      <stop offset="0" stop-color="#00e5ff"/>
-      <stop offset="0.5" stop-color="#22c55e"/>
-      <stop offset="1" stop-color="#facc15"/>
+      <stop offset="0" class="cy"/>
+      <stop offset="0.5" class="gr"/>
+      <stop offset="1" class="ye"/>
       <animate attributeName="x1" values="0;-0.6;0" dur="6s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="1;0.4;1" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
@@ -20,5 +32,5 @@
   <g class="hola"><g class="float">
     <text id="line" x="600" y="86" font-size="62" font-weight="900" text-anchor="middle" fill="url(#t)">¡Hola! Soy Lester Garcia</text>
   </g></g>
-  <text class="epic" x="600" y="146" font-size="20" font-weight="500" text-anchor="middle" fill="#8fe9d0" letter-spacing="1.5">BIENVENIDO A MI UNIVERSO DE CÓDIGO: AQUÍ CADA LÍNEA CONSTRUYE FUTURO</text>
+  <text class="epic sub" x="600" y="146" font-size="20" font-weight="500" text-anchor="middle" letter-spacing="1.5">BIENVENIDO A MI UNIVERSO DE CÓDIGO: AQUÍ CADA LÍNEA CONSTRUYE FUTURO</text>
 </svg>

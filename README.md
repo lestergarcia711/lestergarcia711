@@ -12,7 +12,10 @@
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Node.js+%2B+Express;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Node.js+%2B+Express;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales" />
+  <img alt="Tecnico Desarrollador de Software Junior" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=0284C7&center=true&vCenter=true&width=700&lines=Tecnico+Desarrollador+de+Software+Junior;Node.js+%2B+Express;Frontend%3A+HTML+%26+CSS;Backend+%2B+MySQL;Construyendo+proyectos+reales" />
+</picture>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lester-garcia-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
@@ -120,7 +123,10 @@ gitGraph
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=3000&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=%C2%BFTienes+una+idea+o+una+oportunidad%3F;Construyamos+algo+juntos" alt="Construyamos algo juntos" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=3000&pause=1500&color=22C55E&center=true&vCenter=true&width=700&lines=%C2%BFTienes+una+idea+o+una+oportunidad%3F;Construyamos+algo+juntos" />
+  <img alt="Construyamos algo juntos" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=20&duration=3000&pause=1500&color=15803D&center=true&vCenter=true&width=700&lines=%C2%BFTienes+una+idea+o+una+oportunidad%3F;Construyamos+algo+juntos" />
+</picture>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lester-garcia-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lester-garcia-dev/)
