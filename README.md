@@ -23,7 +23,9 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Sobre mí
+<div align="center">
+  <img src="./assets/title-sobre-mi.svg" alt="Sobre mí" height="48" />
+</div>
 
 <p align="justify">Soy <strong>Técnico en Desarrollo de Software</strong> con enfoque en el <strong>frontend</strong> (páginas web con HTML, CSS y JavaScript) y en el <strong>backend</strong> con <strong>Node.js</strong> y <strong>Express</strong>, y bases de datos <strong>MySQL</strong>.</p>
 
@@ -33,7 +35,9 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Stack tecnológico
+<div align="center">
+  <img src="./assets/title-stack.svg" alt="Stack tecnológico" height="48" />
+</div>
 
 <div align="center">
 
@@ -49,7 +53,9 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Proyectos destacados
+<div align="center">
+  <img src="./assets/title-proyectos.svg" alt="Proyectos destacados" height="48" />
+</div>
 
 | Proyecto | Qué resuelve | Tecnologías | Demo |
 |:---|:---|:---|:---:|
@@ -58,7 +64,9 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Actividad en GitHub
+<div align="center">
+  <img src="./assets/title-actividad.svg" alt="Actividad en GitHub" height="48" />
+</div>
 
 <div align="center">
     <img src="./profile-summary-card-output/aura/0-profile-details.svg" width="98%"/>
@@ -72,7 +80,9 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Contribuciones diarias
+<div align="center">
+  <img src="./assets/title-contribuciones.svg" alt="Contribuciones diarias" height="48" />
+</div>
 
 <div align="center">
   <a href="https://github.com/lestergarcia711">
@@ -86,7 +96,9 @@
 
 <img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## Flujo de trabajo
+<div align="center">
+  <img src="./assets/title-flujo.svg" alt="Flujo de trabajo" height="48" />
+</div>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'git0':'#00e5ff','git1':'#22c55e','git2':'#facc15','gitBranchLabel0':'#0b1120','gitBranchLabel1':'#0b1120','gitBranchLabel2':'#0b1120'}}}%%

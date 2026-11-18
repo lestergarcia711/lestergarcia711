@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 64" width="700" height="64" font-family="Roboto, 'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#facc15"/>
+      <stop offset="0.5" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#00e5ff"/>
+    </linearGradient>
+  </defs>
+  <text x="350" y="46" font-size="40" font-weight="900" text-anchor="middle" fill="url(#g)">Proyectos destacados</text>
+</svg>
