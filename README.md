@@ -25,9 +25,9 @@
 
 ## Sobre mí
 
-Soy **Técnico en Desarrollo de Software** con enfoque en el **frontend** (páginas web con HTML, CSS y JavaScript) y en el **backend** con **Python** y bases de datos **MySQL**.
+<p align="justify">Soy <strong>Técnico en Desarrollo de Software</strong> con enfoque en el <strong>frontend</strong> (páginas web con HTML, CSS y JavaScript) y en el <strong>backend</strong> con <strong>Python</strong> y bases de datos <strong>MySQL</strong>.</p>
 
-Durante mi formación en **Campuslands** he desarrollado proyectos académicos y personales, trabajando con **Visual Studio Code** y control de versiones con **Git y GitHub**.
+<p align="justify">Durante mi formación en <strong>Campuslands</strong> he desarrollado proyectos académicos y personales, trabajando con <strong>Visual Studio Code</strong> y control de versiones con <strong>Git y GitHub</strong>.</p>
 
 Actualmente:
 - 🌱 Aprendiendo: Node.js
