@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="./assets/banner.png"
-    alt="Lester Garcia - Desarrollador de Software"
+    src="./assets/banner.svg"
+    alt="Lester Garcia -  Tecnico en Desarrollo de Software"
     width="100%"
   />
 </div>
