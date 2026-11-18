@@ -30,25 +30,25 @@ Soy **Técnico en Desarrollo de Software** con enfoque en el **frontend** (pági
 Durante mi formación en **Campuslands** he desarrollado proyectos académicos y personales, trabajando con **Visual Studio Code** y control de versiones con **Git y GitHub**.
 
 Actualmente:
-- 🌱 Aprendiendo: NODEJS ...
+- 🌱 Aprendiendo: Node.js
 
 
 ## 🛠️ Stack tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,git,github,vscode,docker" alt="Tecnologías" />
-</div>
-
-<br>
 
 | Área | Tecnologías |
-|:---|:---|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python, JavaScript, TypeScript |
-| **Bases de datos** | MySQL |
-| **Herramientas** | Git, GitHub, Visual Studio Code, Docker |
+|:---:|:---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript, TypeScript" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python, Node.js" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code, Docker" /> |
 
-##  Proyectos destacados
+</div>
+
+<sub>Node.js: en proceso de aprendizaje.</sub>
+
+## 🚀 Proyectos destacados
 
 | Proyecto | Qué resuelve | Tecnologías | Demo |
 |:---|:---|:---|:---:|
@@ -66,6 +66,18 @@ Actualmente:
   <img src="./profile-summary-card-output/aura/3-stats.svg" width="49%" />
 </div>
 
+
+## 🐍 Contribuciones
+
+<div align="center">
+  <a href="https://github.com/lestergarcia711">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lestergarcia711/lestergarcia711/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lestergarcia711/lestergarcia711/output/github-snake.svg" />
+      <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/lestergarcia711/lestergarcia711/output/github-snake.svg" />
+    </picture>
+  </a>
+</div>
 
 ##  Cómo trabajo
 
