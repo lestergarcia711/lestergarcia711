@@ -33,7 +33,7 @@ Actualmente:
 - 🌱 Aprendiendo: Node.js
 
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
@@ -48,14 +48,14 @@ Actualmente:
 
 <sub>Node.js: en proceso de aprendizaje.</sub>
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Qué resuelve | Tecnologías | Demo |
 |:---|:---|:---|:---:|
 | **Campus Shop Online**<br>Tienda de ropa en línea | Facilita la venta de ropa por internet y la actualización de nuevos productos para atraer más clientes. | `HTML` `CSS` | [Ver demo](https://lestergarcia711.github.io/campus-shop-online/) |
 | **Sistema Campus Parking**<br>Gestión de parqueadero | Mejora el servicio al cliente, evita la pérdida de datos y agiliza el manejo de la información. | `HTML` `CSS` `JavaScript` | [Ver demo](https://lestergarcia711.github.io/sistema-campus-parking/) |
 
-## 📊 Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
     <img src="./profile-summary-card-output/aura/0-profile-details.svg" width="98%"/>
@@ -67,7 +67,7 @@ Actualmente:
 </div>
 
 
-## 🐍 Contribuciones
+## Contribuciones diarias
 
 <div align="center">
   <a href="https://github.com/lestergarcia711">
@@ -79,7 +79,7 @@ Actualmente:
   </a>
 </div>
 
-##  Cómo trabajo
+## Mi forma de trabajar
 
 - No trabajo directamente sobre `main`; uso ramas separadas por responsabilidad.
 - Organizo las carpetas del proyecto con criterio.
